@@ -2,3 +2,6 @@ pycryptodomex
 flask
 gunicorn
 pyperclip
+pbcopy
+pbpaste
+ctypes
